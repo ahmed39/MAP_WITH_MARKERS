@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btMark" type="id">btbutton</item>
+    <item name="zcZoom" type="id">zzbutton</item>
+</resources>
